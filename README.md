@@ -23,4 +23,4 @@ Real-time Communication: Socket.IO
 
 Optional: A library like music-metadata-browser to automatically pull metadata (artist, album art) from the uploaded audio files.
 a preview : 
-https://enzostvs-deepsite.hf.space/AdityaSirohi/vibesync-harmonious-hangouts-hub
+https://huggingface.co/spaces/AdityaSirohi/vibesync-harmonious-hangouts-hub
